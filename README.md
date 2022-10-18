@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @kcwoodfield
-- 👀 I’m interested in how to build usefull products that make the world a better place
+- 👀 I’m interested in building usefull products that make the world a better place
 - 🌱 I’m currently learning TypeScript
