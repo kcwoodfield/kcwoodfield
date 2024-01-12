@@ -1,2 +1,4 @@
 - I’m interested in building useful products that make the world a better place
 - I’m currently learning TypeScript
+- Next.js and Tailwind are my go-to technologies right now
+- Obsidian user
