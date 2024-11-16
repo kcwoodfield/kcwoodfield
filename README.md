@@ -1,2 +1,2 @@
 - Interested in building useful products that make the world a better place
-- Next.js and Python are my favorite tools right now
+- Next.js, Python, and Obsidian are my favorite tools right now
