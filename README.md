@@ -1,2 +1,1 @@
 - interested in building useful products that make the world a better place
-- react, dotnet, and obsidian are my favorite tools right now
